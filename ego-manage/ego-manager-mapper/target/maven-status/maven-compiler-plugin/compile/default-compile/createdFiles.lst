@@ -1,0 +1,11 @@
+cn\gzsxt\mapper\TbItemMapper.class
+cn\gzsxt\mapper\TbOrderMapper.class
+cn\gzsxt\mapper\TbOrderItemMapper.class
+cn\gzsxt\mapper\TbItemParamItemMapper.class
+cn\gzsxt\mapper\TbOrderShippingMapper.class
+cn\gzsxt\mapper\TbUserMapper.class
+cn\gzsxt\mapper\TbContentMapper.class
+cn\gzsxt\mapper\TbItemParamMapper.class
+cn\gzsxt\mapper\TbItemCatMapper.class
+cn\gzsxt\mapper\TbContentCategoryMapper.class
+cn\gzsxt\mapper\TbItemDescMapper.class
